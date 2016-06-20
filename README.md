@@ -1,2 +1,2 @@
-# netrunner-artwork-color-schemes
-Color Schemes for Plasma 5
+# artwork-color-scheme-carbon
+Carbon Color Schemes for Plasma 5

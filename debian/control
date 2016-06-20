@@ -1,0 +1,13 @@
+Source: artwork-color-scheme-carbon
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.7.2
+
+Package: artwork-color-scheme-carbon
+Architecture: all
+Replaces: netrunner-artwork (<< 1.1.49)
+Breaks: netrunner-artwork (<< 1.1.49)
+Description: arbon Color Scheme for Plasma
+  This package provides the carbon color-scheme.
